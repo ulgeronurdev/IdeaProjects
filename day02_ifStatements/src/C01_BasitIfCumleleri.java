@@ -12,7 +12,7 @@ public class C01_BasitIfCumleleri {
 
         int a = 200;
         int b = 30;
-
+        
         // eger a b'den buyukse "a b'den buyuk" yazdirin
         if (a>b){ // 200 > 30 ==> true
             System.out.println("a b'den buyuk");
