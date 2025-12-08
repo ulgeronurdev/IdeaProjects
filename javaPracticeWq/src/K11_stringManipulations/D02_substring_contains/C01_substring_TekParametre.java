@@ -24,7 +24,7 @@ public class C01_substring_TekParametre {
 
         // ilk harf haric, kalan metni yazdirin
 
-        System.out.println(str.substring(1)); // ava gun gectikce guzellesiyor
+        System.out.println(str.substring(1)); // java gun gectikce guzellesiyor
 
 
         // sondan 5.karakteri yazdirin
